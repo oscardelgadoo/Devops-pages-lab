@@ -13,7 +13,7 @@ This repository demonstrates:
 - Automated activity logging with GitHub Actions
 - CI/CD practices for content generation
 
-**Live Site:** [[[https://oscardelgadoo.github.io/devops-pages-lab/](https://oscardelgadoo.github.io/devops-pages-lab/)](https://github.com/oscardelgadoo/Devops-pages-lab)](https://oscardelgadoo.github.io/Devops-pages-lab/)
+**Live Site:** [https://oscardelgadoo.github.io/devops-pages-lab/]
 
 ---
 
@@ -46,7 +46,7 @@ This section is automatically updated by GitHub Actions every day.
 
 ## 🔗 Links
 
-- **Live Site:** [[[https://oscardelgadoo.github.io/devops-pages-lab/](https://oscardelgadoo.github.io/devops-pages-lab/)](https://github.com/oscardelgadoo/Devops-pages-lab)](https://oscardelgadoo.github.io/Devops-pages-lab/)
+- **Live Site:** [https://oscardelgadoo.github.io/devops-pages-lab/]
 - **Repository:** [GitHub Pages](https://oscardelgadoo.github.io/devops-pages-lab/)](https://github.com/oscardelgadoo/Devops-pages-lab)
 - **My Profile:** [@oscardelgadoo](https://github.com/oscardelgadoo)
 
